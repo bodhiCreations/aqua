@@ -195,6 +195,12 @@ img {
   position: relative;
 }
 
+.section__Footer {
+  padding: 0 100px 100px 100px;
+  overflow: hidden;
+  position: relative;
+}
+
 /*button*/
 .button {
   display: inline-block;
