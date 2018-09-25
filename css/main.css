@@ -194,7 +194,11 @@ img {
   overflow: hidden;
   position: relative;
 }
-
+.section__Header-top {
+  padding: 60px 0 0;
+  overflow: hidden;
+  position: relative;
+}
 .section__Footer {
   padding: 0 100px 100px 100px;
   overflow: hidden;
